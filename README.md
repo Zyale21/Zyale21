@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate full-stack developer and computer science student with a strong foundation in software engineering, systems programming, and modern web development. I love building performant, scalable applications—from low-level graphics rendering to full-stack SaaS platforms.
+I'm a passionate full-stack developer and computer science student with a strong foundation in software engineering, systems programming, and modern web development. I love building performant, scalable applications from low-level graphics rendering to full-stack SaaS platforms.
 
 🔭 **Currently working on:** Building a SaaS platform for flower shop management  
 🌱 **Currently learning:** Advanced React patterns, system design, machine learning and cloud architecture  
