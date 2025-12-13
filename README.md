@@ -63,7 +63,7 @@ I'm a passionate full-stack developer and computer science student with a strong
 ### 🌸 [Bloomer - Flower Shop Management SaaS](https://github.com/Zyale21/bloomer)
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)](https://github.com/Zyale21/bloomer)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/Zyale21/bloomer)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/Zyale21/bloomer)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)(https://github.com/Zyale21/bloomer)
 
 A full-stack SaaS platform for flower shop management built with modern web technologies.
 
@@ -74,7 +74,7 @@ A full-stack SaaS platform for flower shop management built with modern web tech
 - 📊 Advanced customer filtering and spend tracking
 - 🔄 Batch operations processing 1,000+ customer records
 
-**Tech Stack:** Next.js 14, TypeScript, PostgreSQL, Prisma ORM, Tailwind CSS, Square API
+**Tech Stack:** Next.js 14, TypeScript, MongoDB, Prisma ORM, Tailwind CSS, Square API
 
 ---
 
