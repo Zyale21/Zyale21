@@ -60,7 +60,7 @@ I'm a passionate full-stack developer and computer science student with a strong
 
 ## 🚀 Featured Projects
 
-### 🌸 [Bloomer - Flower Shop Management SaaS](https://github.com/Zyale21/bloomer)
+### 🌸 [Bloomer - Flower Shop Management SaaS](https://github.com/ryanmello/bloomer)
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)](https://github.com/Zyale21/bloomer)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/Zyale21/bloomer)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)(https://github.com/Zyale21/bloomer)
